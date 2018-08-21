@@ -290,7 +290,7 @@ function destory() {
     }, 5000)
 }
 function redirect() {
-    $('html')['html']('نأسف ولكن لا تملك رخصة إستخدام هذا القالب تواصل ما صاحب القالب <a href=\https://www.facebook.com/abdalrahmanME\>من هنا</a> للحصول على تفعيل القالب');
+    $('html')['html']('نأسف ولكن لا تملك رخصة إستخدام هذا هذا الموقع تواصل ما صاحب الموقع <a href=\https://www.facebook.com/abdalrahmanME\>من هنا</a> للحصول على تفعيل الموقع');
     setTimeout(function () {
         window['location']['assign']('https://www.equation-b.ooo')
     }, 2000e3)

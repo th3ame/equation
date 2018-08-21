@@ -299,7 +299,7 @@ var Loct = window['location']['hostname']['toLowerCase']();
 var Link = window['location']['href']['toLowerCase']();
 var Cont = '';
 var Cont2 = '';
-  Cont += '<a href=\'https://www.equation-b.ooo\' target=\'_blank\'>تصميم : عالم المدون</a>';
+  Cont += '<a href=\'https://www.facebook.com/abdalrahmanME\' target=\'_blank\'>تصميم : عبدالرحمن محمد</a>';
 if ($('#powered')['length'] !== 0) {
     if (Loct['indexOf']('xfost') != -1) {
         $('#powered')['addClass']('impo')['append'](Cont2)

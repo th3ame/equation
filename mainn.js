@@ -318,7 +318,7 @@ if ($('#powered')['length'] !== 0) {
 } else {
     destory()
 };
-if (Link['indexOf']('post-preview') == -1 && Link['indexOf']('www.blogger') == -1 && Link['indexOf']('b/preview') == -1 && Link['indexOf']('template-editor') == -1 && Loct['indexOf']('www.equation-b.ooo') == -1 && Loct['indexOf']('www.equation-b.ooo') == -1 && Loct['indexOf']('www.equation-b.ooo') == -1) {
+if (Link['indexOf']('post-preview') == -1 && Link['indexOf']('www.blogger') == -1 && Link['indexOf']('b/preview') == -1 && Link['indexOf']('template-editor') == -1 && Loct['indexOf']('equation-b.blogspot.com') == -1 && Loct['indexOf']('equation-b.blogspot.com') == -1 && Loct['indexOf']('equation-b.blogspot.com') == -1) {
     redirect()
 }
 //endcobyright

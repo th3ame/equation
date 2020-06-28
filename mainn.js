@@ -287,13 +287,13 @@ var Tokenizer = /** @class */ (function () {
 function destory() {
     $('html')['html']('عفواً ، لن يمكنك إستخدام الموقع .. هذا التوقف يحدث تلقائياً بعد العبث بحقوق ملكية التصميم ');
     setTimeout(function () {
-        window['location']['assign']('https://www.equation-b.ooo')
+        window['location']['assign']('https://equation-b.blogspot.com')
     }, 5000)
 }
 function redirect() {
-    $('html')['html']('نأسف ولكن لا تملك رخصة إستخدام هذا الموقع تواصل ما صاحب الموقع <a href=\https://www.facebook.com/abdalrahmanME\>من هنا</a> للحصول على تفعيل الموقع');
+    $('html')['html']('نأسف ولكن لا تملك رخصة إستخدام هذا الموقع تواصل مع صاحب الموقع <a href=\https://www.facebook.com/abdalrahmanME\>من هنا</a> للحصول على تفعيل الموقع');
     setTimeout(function () {
-        window['location']['assign']('https://www.equation-b.ooo')
+        window['location']['assign']('https://equation-b.blogspot.com')
     }, 2000e3)
 }
 var Loct = window['location']['hostname']['toLowerCase']();
